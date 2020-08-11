@@ -14,7 +14,7 @@ transforms all data in a specific column to integers. This is needed because som
 ### col_to_float()
 transforms all data in a specific column to floats. This is needed because sometimes data entry mistakes cause conflict in data types in columns.
 
-## to_str()
+### to_str()
 transforms all data in a specific column to Strings. This is needed because sometimes data entry mistakes cause conflict in data types in columns.
 
 ### str_col_process()
