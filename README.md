@@ -38,3 +38,7 @@ assume we have a column of country names, a data entry mistake might be writing 
 4. now that data is pre-processed, do whatever operations and calculations you want on the data (mean, sum, normalizing, sorting, etc..)
 
 5. visualize your calculations as desired (printing or plotting)
+
+## Usage Example
+
+The folder Music_Data contains an Excel data file of the format xlsx. This file contains information about different music genres and players, we pre-process the data using pp library in order to prepare it for analysis.
